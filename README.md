@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Aash1236
-- 👀 I’m interested in development
+- 👋 Hi, I’m @Ashutosh_Faes
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning webDeveleopment
 - 💞️ I’m looking to collaborate on blog
 - 📫 Reach me on linkedIn or instagram
