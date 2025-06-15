@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutosh_Faes
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning webDeveleopment
+- 👀 I’m interested in web development and DevOps
+- 🌱 I’m having 3.3years experience in DevOps
 - 💞️ I’m looking to collaborate on blog
 - 📫 Reach me on linkedIn or instagram
 
